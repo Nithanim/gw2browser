@@ -1158,3 +1158,28 @@ File Id     Format      Note
 2203303     model       Blood Legion bed
 2203320     model       Blood Legion bed
 2204305     model       Metal Legion Logo Poster ***28/09/2019
+
+
+...
+
+
+2485523     model       Weapon, scarab
+
+Deep Wilds Mounts
+2485647     model       warclaw mount skin (Renegade Warclaw)
+2485660     model       warclaw mount skin (Striped Grimalkin)
+2485673     model       warclaw mount skin (Exo-Suit Warclaw)
+2485686     model       roller beatle mount skin(Exalted Way Seeker)
+2485731     model       roller beatle mount skin(Great Lavashell)
+2485737     model       skyscale mount skin (Darkmist Terror)
+2485770     model       skyscale mount skin (Stormscale)
+2485796     model       griffon mount skin (Sunrise Macaw)
+2485806     model       griffon mount skin (Aurene's Prismatic Griffon)
+2485840     model       springer mount skin (Lucent Long Ear)
+2485874     model       raptor mount skin (Dark Matter Raptor)
+2485886     model       raptor mount skin (Kintsugi Raptor)
+2486018     model       skimmer mount skin (Dappled Reef Glaucus)
+2486027     model       skimmer mount skin (Alluring Devilfish)
+2486036     model       jackal mount skin (Taiga Lupine)
+
+
