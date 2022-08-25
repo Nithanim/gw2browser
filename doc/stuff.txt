@@ -1183,3 +1183,33 @@ Deep Wilds Mounts
 2486036     model       jackal mount skin (Taiga Lupine)
 
 
+
+...
+1247230     mp3         Music: Heart of Thorns: Tarir, The Forgotten City
+2162479     mp3         Music: Dragon Bash
+1789412     mp3         Music: Path of Fire: Amnoon Oasis (Crystal Oasis)
+775387      mp3         Music: ??? (Lion's Arch (?))
+1954572     mp3         Music: Heart of Thorns: ???
+908177      mp3         Music: ???
+1471905     mp3         Music: Path of Fire: ??? (Mistlock Sanctuary)
+605351      mp3         Music: Base Game: Zephyrite Song
+2306691     mp3         Music: Dragon Bash
+1017576     mp3         Music: Lion's Arch Rebuilt
+105286      mp3         Music: Base Game: ???
+1680768     mp3         Music: ???
+1497716     mp3         Music: Path of Fire: Mistlock Sanctuary (beep-beep-boop-boop-song)
+502478      mp3         Music: ??? (carnival, funfair, mad king's halloween?)
+968308      mp3         Music: ??? 
+835352      mp3         Music: Base Game: ??? (generic greenlands overworld)
+594252      mp3         Music: Dragon Bash Main Theme
+184741      mp3         Music: Base Game: ??? (generic greenlands overworld)
+184754      mp3         Music: Base Game: Divinity's Reach
+605352      mp3         Music: Base Game: Zephyrite Sanctum Sprint
+274734      mp3         Music: Base Game: ??? (generic greenlands overworld)
+908171      mp3         Music: ??? (sounds crystalline)
+1247241     mp3         Music: Path of Fire: Rata Novus (Mistlock Sanctury)
+52507       mp3         Music: Base Game: ??? (generic greenlands overworld)
+1666109     mp3         Music: Base Game: Supe Advanture Box
+
+
+
