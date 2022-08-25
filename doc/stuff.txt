@@ -1184,7 +1184,7 @@ Deep Wilds Mounts
 
 
 
-...
+... (From higest to lowest filesize)
 1247230     mp3         Music: Heart of Thorns: Tarir, The Forgotten City
 2162479     mp3         Music: Dragon Bash
 1789412     mp3         Music: Path of Fire: Amnoon Oasis (Crystal Oasis)
@@ -1197,7 +1197,7 @@ Deep Wilds Mounts
 1017576     mp3         Music: Lion's Arch Rebuilt
 105286      mp3         Music: Base Game: ???
 1680768     mp3         Music: ???
-1497716     mp3         Music: Path of Fire: Mistlock Sanctuary (beep-beep-boop-boop-song)
+1497716     mp3         Music: Mistlock Sanctuary (beep-beep-boop-boop-song)
 502478      mp3         Music: ??? (carnival, funfair, mad king's halloween?)
 968308      mp3         Music: ??? 
 835352      mp3         Music: Base Game: ??? (generic greenlands overworld)
@@ -1207,9 +1207,40 @@ Deep Wilds Mounts
 605352      mp3         Music: Base Game: Zephyrite Sanctum Sprint
 274734      mp3         Music: Base Game: ??? (generic greenlands overworld)
 908171      mp3         Music: ??? (sounds crystalline)
-1247241     mp3         Music: Path of Fire: Rata Novus (Mistlock Sanctury)
+1247241     mp3         Music: Heart of Thorns: Rata Novus (Mistlock Sanctury)
 52507       mp3         Music: Base Game: ??? (generic greenlands overworld)
-1666109     mp3         Music: Base Game: Supe Advanture Box
+45805       mp3         Music: Base Game: ??? (war theme)
+463751      mp3         Music: Base Game: ??? (sad)
+184730      mp3         Music: Base Game: ???
+528946      mp3         Music: ??? (weird piano)
+274680      mp3         Music: Base Game: ??? (overworld)
+44082       mp3         Music: Base Game: ??? (Sunless Battle Music)
+1007421     mp3         Music: ??? (weird folk music)
+184751      mp3         Music: Base Game: ??? (overworld)
+1247232     mp3         Music: Heart of Thorns: ??? (Second map)
+52506       mp3         Music: Base Game: ??? (overworld)
+274679      mp3         Music: Base Game: ??? (overworld)
+908179      mp3         Jingle: Base Game: ??? (overworld)
+1247247     mp3         Jingle: ??? (creepy, war)
+...
+1666107     mp3         Music: Super Advanture Box
+1666108     mp3         Music: Super Advanture Box
+1666109     mp3         Music: Super Advanture Box
+1666110     mp3         Music: Super Advanture Box
+1666111     mp3         Music: Super Advanture Box
+1666112     mp3         Music: Super Advanture Box
+1666113     mp3         Music: Super Advanture Box
+1666114     mp3         Music: Super Advanture Box
+1666115     mp3         Music: Super Advanture Box
+1680768     mp3         Music: Base Game: ??? (war)
 
-
+1497720     ogg         Music: Rata Novus Special
+1497717     ogg         Music: Mistlock Sanctuary (beep-beep-boop-boop-song) (special)
+1419560     ogg         Music: Super Advanture Box (e-guitar)
+184714      ogg         Music: Base Game: ??? (overworld)
+2037751     ogg         Music: ??? (music box)
+1426569     ogg         Music: Heart of Thorns: Tarir Battle
+1789389     ogg         Music: Zephyr Sanctum Sprint
+184748      ogg         Music: Base Game: ??? (Sunless Battle Music)
+2144205     ogg         Music: Path of Fire: War Eternal
 
