@@ -1242,5 +1242,5 @@ Deep Wilds Mounts
 1426569     ogg         Music: Heart of Thorns: Tarir Battle
 1789389     ogg         Music: Zephyr Sanctum Sprint
 184748      ogg         Music: Base Game: ??? (Sunless Battle Music)
-2144205     ogg         Music: Path of Fire: War Eternal
-
+2144205     ogg         Music: Path of Fire: War Eternal: Dragonflight
+2144206     ogg         Music: Path of Fire: War Eternal: Dragonflight
