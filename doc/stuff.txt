@@ -1245,4 +1245,47 @@ Deep Wilds Mounts
 2144205     ogg         Music: Path of Fire: War Eternal: Dragonflight
 2144206     ogg         Music: Path of Fire: War Eternal: Dragonflight
 968306      ogg         Jingle: ??? (weird old-school piano radio song)
+1419565     ogg         Music: ??? (e-guitar; somewhat Sanctum Sprint)
+635089      ogg         Music: Super Advanture Box
+635088      ogg         Music: Super Advanture Box (somewhat sanctum sprint)
+635086      ogg         Music: Super Advanture Box
+635085      ogg         Music: Super Advanture Box
+635084      ogg         Music: Super Advanture Box
+635083      ogg         Music: Super Advanture Box
+635082      ogg         Music: Super Advanture Box
+630037      ogg         Music: Super Advanture Box
+630036      ogg         Music: Super Advanture Box
+630035      ogg         Music: Super Advanture Box
+630034      ogg         Music: Super Advanture Box
+630033      ogg         Music: Super Advanture Box
+630032      ogg         Music: Super Advanture Box
+630031      ogg         Music: Super Advanture Box
+630030      ogg         Music: Super Advanture Box
+630028      ogg         Music: Super Advanture Box
+630020      ogg         Music: Super Advanture Box
+567892      ogg         Music: Super Advanture Box
+567891      ogg         Music: Super Advanture Box
+567890      ogg         Music: Super Advanture Box
+567889      ogg         Music: Super Advanture Box
+567887      ogg         Music: Super Advanture Box
+567886      ogg         Music: Super Advanture Box
+567884      ogg         Music: Super Advanture Box
+567883      ogg         Music: Super Advanture Box
+567882      ogg         Music: Super Advanture Box
+567881      ogg         Music: Super Advanture Box
+567880      ogg         Music: Super Advanture Box
+567879      ogg         Music: Super Advanture Box
+
+274750      ogg         Music: ??? (generic war)
+274743      ogg         Music: ??? (generic)
+274742      ogg         Music: ??? (generic)
+274738      ogg         Music: ??? (generic, war, slow, vantage point, vista)
+274700      ogg         Music: ??? (generic, war, vantage point, vista)
+184748      ogg         Music: Sunless Battle
+184736      ogg         Music: ??? (overworld, generic, war)
+184714      ogg         Music: ??? (generic, war)
+184708      ogg         Music: ??? (generic, war)
+106042      ogg         Music: ??? (generic, war)
+
+
 
