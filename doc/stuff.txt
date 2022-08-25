@@ -1244,3 +1244,5 @@ Deep Wilds Mounts
 184748      ogg         Music: Base Game: ??? (Sunless Battle Music)
 2144205     ogg         Music: Path of Fire: War Eternal: Dragonflight
 2144206     ogg         Music: Path of Fire: War Eternal: Dragonflight
+968306      ogg         Jingle: ??? (weird old-school piano radio song)
+
