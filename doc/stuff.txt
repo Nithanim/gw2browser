@@ -1234,6 +1234,12 @@ Deep Wilds Mounts
 1666115     mp3         Music: Super Advanture Box
 1680768     mp3         Music: Base Game: ??? (war)
 
+1789407     mp3         Music: Path of Fire: Main Theme (?)
+1789405     mp3         Music: Path of Fire: ??? (Desert Ambient)
+1680774     mp3         Music: ??? (Sad)
+
+
+
 1497720     ogg         Music: Rata Novus Special
 1497717     ogg         Music: Mistlock Sanctuary (beep-beep-boop-boop-song) (special)
 1419560     ogg         Music: Super Advanture Box (e-guitar)
