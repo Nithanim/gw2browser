@@ -1242,7 +1242,6 @@ Deep Wilds Mounts
 
 1497720     ogg         Music: Rata Novus Special
 1497717     ogg         Music: Mistlock Sanctuary (beep-beep-boop-boop-song) (special)
-1419560     ogg         Music: Super Advanture Box (e-guitar)
 184714      ogg         Music: Base Game: ??? (overworld)
 2037751     ogg         Music: ??? (music box)
 1426569     ogg         Music: Heart of Thorns: Tarir Battle
@@ -1251,7 +1250,17 @@ Deep Wilds Mounts
 2144205     ogg         Music: Path of Fire: War Eternal: Dragonflight
 2144206     ogg         Music: Path of Fire: War Eternal: Dragonflight
 968306      ogg         Jingle: ??? (weird old-school piano radio song)
+1419559     ogg         Music: ??? (e-guitar)
+1419558     ogg         Music: ??? (e-guitar)
 1419565     ogg         Music: ??? (e-guitar; somewhat Sanctum Sprint)
+1663448     ogg         Music: ??? (e-guitar; low-quality of 1419565)
+1663441     ogg         Music: ??? (e-guitar; low-quality of 1419565)
+1419562     ogg         Music: ??? (e-guitar)
+1663447     ogg         Music: ??? (e-guitar; low-quality of 1419562)
+1419560     ogg         Music: Super Advanture Box (e-guitar)
+1663438     ogg         Music: Super Advanture Box (e-guitar; low-quality of 1419558)
+
+
 635089      ogg         Music: Super Advanture Box
 635088      ogg         Music: Super Advanture Box (somewhat sanctum sprint)
 635086      ogg         Music: Super Advanture Box
@@ -1291,7 +1300,18 @@ Deep Wilds Mounts
 184736      ogg         Music: ??? (overworld, generic, war)
 184714      ogg         Music: ??? (generic, war)
 184708      ogg         Music: ??? (generic, war)
+184764      ogg         Music: Some World Boss (?)
 106042      ogg         Music: ??? (generic, war)
+184719      ogg         Music: ??? (war)
+851459      ogg         Music: ??? (war, boss(?))
+184723      ogg         Music: ??? (war)
+106042      ogg         Music: Base Game: ??? (generic, war)
+
+720534      ogg         Music: Some Boss Music (???) (A bit Assassin's Creed style)
+921553      ogg         Music: ??? (spooky; empty; background ambient music)
+1954573     ogg         Music: ??? (spooky; empty; background ambient music; same as 921553)
+
+
 
 
 
