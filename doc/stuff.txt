@@ -1243,6 +1243,7 @@ Deep Wilds Mounts
 1497720     ogg         Music: Rata Novus Special
 1497717     ogg         Music: Mistlock Sanctuary (beep-beep-boop-boop-song) (special)
 184714      ogg         Music: Base Game: ??? (overworld)
+184714      ogg         Music: Base Game: ??? (generic)
 2037751     ogg         Music: ??? (music box)
 1426569     ogg         Music: Heart of Thorns: Tarir Battle
 1789389     ogg         Music: Zephyr Sanctum Sprint
@@ -1257,8 +1258,11 @@ Deep Wilds Mounts
 1663441     ogg         Music: ??? (e-guitar; low-quality of 1419565)
 1419562     ogg         Music: ??? (e-guitar)
 1663447     ogg         Music: ??? (e-guitar; low-quality of 1419562)
+1419566     ogg         Music: ??? (e-guitar)
+1663444     ogg         Music: ??? (e-guitar; low-quality of 1419566)
 1419560     ogg         Music: Super Advanture Box (e-guitar)
 1663438     ogg         Music: Super Advanture Box (e-guitar; low-quality of 1419558)
+1666123     ogg         Music: ??? (e-guitar; beginning: chill; guitar; legend of zelda like; grass; green fields)
 
 
 635089      ogg         Music: Super Advanture Box
@@ -1311,6 +1315,9 @@ Deep Wilds Mounts
 921553      ogg         Music: ??? (spooky; empty; background ambient music)
 1954573     ogg         Music: ??? (spooky; empty; background ambient music; same as 921553)
 
+105848      ogg         Music: ??? (chimes)
+1829788     ogg         Music: ??? (Boss Fight (?))
+764208      ogg         Music: ??? (Boss Fight (?))
 
 
 
