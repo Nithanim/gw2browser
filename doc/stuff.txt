@@ -1210,7 +1210,8 @@ Deep Wilds Mounts
 1247241     mp3         Music: Heart of Thorns: Rata Novus (Mistlock Sanctury)
 52507       mp3         Music: Base Game: ??? (generic greenlands overworld)
 45805       mp3         Music: Base Game: ??? (war theme)
-463751      mp3         Music: Base Game: Fear Not This Night
+463763      mp3         Music: Base Game: Fear Not This Night (+ Voice)
+463751      mp3         Music: Base Game: Fear Not This Night (Instrumental) (-> shorter)
 184730      mp3         Music: Base Game: ???
 528946      mp3         Music: ??? (weird piano)
 274680      mp3         Music: Base Game: ??? (overworld)
@@ -1222,6 +1223,7 @@ Deep Wilds Mounts
 274679      mp3         Music: Base Game: ??? (overworld)
 908179      mp3         Jingle: Base Game: ??? (overworld)
 1247247     mp3         Jingle: ??? (creepy, war)
+274707      mp3         Music: Base Game: ??? (very long track (05:01) -> special?)
 ...
 1666107     mp3         Music: Super Advanture Box
 1666108     mp3         Music: Super Advanture Box
@@ -1246,6 +1248,7 @@ Deep Wilds Mounts
 184714      ogg         Music: Base Game: ??? (generic)
 2037751     ogg         Music: ??? (music box)
 1426569     ogg         Music: Heart of Thorns: Tarir Battle
+1426568     ogg         Music: Heart of Thorns: ??? (very long (04:57) -> Boss battle?) (Dragon Fight?; Mordremoth Battle?)
 1789389     ogg         Music: Zephyr Sanctum Sprint
 184748      ogg         Music: Base Game: ??? (Sunless Battle Music)
 2144205     ogg         Music: Path of Fire: War Eternal: Dragonflight
