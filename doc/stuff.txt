@@ -2,6 +2,14 @@ This file list will list the stuff in dat file,
 which mostly are Charr stuff!
 
 
+Number ranges: (migth help you finding stuff)
+EoD end might be around 2719367
+1247241 is contained in HOT
+1789412 is contained in PoF
+2144205 is contained in LWS4
+
+
+
 Charracter customization parts
 ==============================
 
@@ -1323,5 +1331,5 @@ Deep Wilds Mounts
 764208      ogg         Music: ??? (Boss Fight (?))
 
 
-
+2719366     ogg         Music: ??? (Some kind of tavern)
 
